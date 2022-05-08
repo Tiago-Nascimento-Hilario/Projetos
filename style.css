@@ -1,0 +1,46 @@
+body{
+    background-color: #0064b1;
+}
+
+p{
+    text-align: center;
+    font-size: 28px;
+    font-style: italic;
+    color: white;
+    
+}
+
+.container{
+    margin-top: 0.80rem;
+    text-align: center;
+}
+.titulo{
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#input1{
+    
+    font-size: 25px;
+    border-radius: 0.90rem;
+}
+#input2{
+    
+    font-size: 25px;
+    border-radius: 0.90rem;
+}
+#buton1{
+    margin-top: 2rem;
+    margin-left: 60rem;
+    font-size: 28px;
+    border-radius: 0.90rem;
+    border-color: white;
+    border: solid 0.1rem;
+    background-color: #0064b1;
+    color: white;
+    cursor: pointer;
+}
+#buton1:hover{
+    background-color:#192746;
+}
